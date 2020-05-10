@@ -1,4 +1,8 @@
-### Natural Language Processing Category Tasks
->* Text Analysis
->* Sentimental Analysis
->* Information Retrieval
+### Classification Tasks
+>* Supervised Learning
+    >* Binary Classification
+    >* Natural Language Processing - Text Analysis
+    >* Natural Language Processing - Sentimental Analysis
+>* Unsupervised Learning
+    >* Natural Language Processing - Sentence Clustering
+
