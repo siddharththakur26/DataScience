@@ -1,3 +1,0 @@
-### Modeling Tasks
->* Classification 
-
